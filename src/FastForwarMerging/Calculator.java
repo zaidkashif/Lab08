@@ -3,12 +3,7 @@ package FastForwarMerging;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Calculator 
-{
-	static int addition(int num1,int num2)
-	{
-		return num1+num2;
-	}
+
 
 public static void main(String[] args)
 {
